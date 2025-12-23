@@ -47,6 +47,6 @@ The Introduction about app interface:
 
 The Exit app interface:
 
-[猫](./screenshots/cat.jpg)
+![猫](./screenshots/cat.jpg)
 
-[test](https://s1.imagehub.cc/images/2025/11/16/4f14c2cda18e7c66c3a5269877ac0243.th.png)
+![test](https://s1.imagehub.cc/images/2025/11/16/4f14c2cda18e7c66c3a5269877ac0243.th.png)
