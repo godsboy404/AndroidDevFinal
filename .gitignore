@@ -11,8 +11,3 @@
 /build
 /captures
 .externalNativeBuild
-
-# Project exclude paths
-/app/
-/gradle/
-/screenshots/
